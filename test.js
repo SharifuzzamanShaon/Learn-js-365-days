@@ -10,3 +10,7 @@ const newUser = { user:userinfo.user,email:userinfo.email };
 
 console.log(newUser);
 console.log(userinfo);
+
+
+const res= Math.floor(Math.random()*10)
+console.log(res);
